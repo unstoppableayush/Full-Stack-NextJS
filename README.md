@@ -48,3 +48,7 @@
 - `database connection` required in every route
 - installed `bcryptjs` package
 - We write method `GET , POST ..` in function inside route.
+
+# 4 Signup user and custom OTP in NextJS
+
+- Worked on algorithm part in signup route.
