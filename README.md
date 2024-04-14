@@ -51,4 +51,4 @@
 
 # 4 Signup user and custom OTP in NextJS
 
-- Worked on algorithm part in signup route.
+- Worked on algorithm part in signup route.gi
